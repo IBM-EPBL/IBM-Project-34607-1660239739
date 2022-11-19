@@ -1,3 +1,5 @@
+
+<<<<<<< HEAD
 from flask import Flask, Response, render_template
 import cv2
 
